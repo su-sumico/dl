@@ -23,21 +23,21 @@ page 8
 ![image](https://github.com/su-sumico/dl/assets/161304268/741c2393-8192-409e-a616-75ed093c0566)
 -
 page 9
-![image](https://github.com/su-sumico/dl/assets/161304268/54a202a3-8df2-415a-ba37-6fb5acc27d6e)
+![image](https://github.com/su-sumico/dl/assets/161304268/b257ae00-bd52-4cd3-84e6-abc2de367a6c)
 -
 page 10
-
+![image](https://github.com/su-sumico/dl/assets/161304268/c9ee6d24-fa37-4210-b584-030a76a43288)
 -
 page 11
-![image](https://github.com/su-sumico/dl/assets/161304268/670fa399-d8e3-441d-b394-9628d3da1dd3)
+![image](https://github.com/su-sumico/dl/assets/161304268/02043bf0-d420-448a-8ced-b981601368fc)
 -
 page 12
-![image](https://github.com/su-sumico/dl/assets/161304268/5458c163-6648-4d9d-bb7b-80034cd854f7)
+![image](https://github.com/su-sumico/dl/assets/161304268/f1fef01a-5933-4413-ac1a-e58b7bedfe1c)
 -
 page 13
-![image](https://github.com/su-sumico/dl/assets/161304268/f374b0cf-742f-4bb9-9994-cafc8af5fdda)
+![image](https://github.com/su-sumico/dl/assets/161304268/239a1f4c-24e0-42fb-9422-1d2d3c4f4965)
 -
 page 14
-![image](https://github.com/su-sumico/dl/assets/161304268/0b768f59-d431-4fd9-ae66-5963e318a257)
+![image](https://github.com/su-sumico/dl/assets/161304268/d10af521-2eee-4418-a258-93d2265951b0)
 -
 
