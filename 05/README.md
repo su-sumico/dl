@@ -38,5 +38,5 @@ page 13
 ![image](https://github.com/su-sumico/dl/assets/161304268/271fe00d-560a-4626-a1be-18a5e4629780)
 -
 page 14
-![image](https://github.com/su-sumico/dl/assets/161304268/a1ae483f-6482-47ab-a7fd-e60170583ee8)
+![image](https://github.com/user-attachments/assets/efba36e0-713c-4436-a19a-752bdf911849)
 -
