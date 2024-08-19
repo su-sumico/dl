@@ -20,7 +20,7 @@ page 7
 ![image](https://github.com/su-sumico/dl/assets/161304268/8cbe3509-6765-4cc7-a9d4-9d3c6329a571)
 -
 page 8
-![image](https://github.com/su-sumico/dl/assets/161304268/2ad45d16-d1b2-4112-9681-b0fdfedff785)
+![image](https://github.com/user-attachments/assets/3caeed56-656a-42ad-b015-a3a16a4492a1)
 -
 page 9
 ![image](https://github.com/su-sumico/dl/assets/161304268/8ac1b0ed-e35d-4665-90e7-3cef6ffe5c4c)
