@@ -40,8 +40,5 @@ page 13
 page 14
 ![image](https://github.com/su-sumico/dl/assets/161304268/4ba31690-840c-4a3b-9254-aef545862447)
 -
-page 15
-![image](https://github.com/su-sumico/dl/assets/161304268/90e2c898-d55b-4cce-a62c-be6b6be6b5ba)
--
 
 
