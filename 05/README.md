@@ -32,7 +32,7 @@ Source: https://github.com/wkentaro/labelme#windows
 
 Source: https://qiita.com/chiba1sonny/items/9a16fbb3e8136e3f983c
 
--
+---
 page 11
 ![image](https://github.com/su-sumico/dl/assets/161304268/c6e953f4-6df5-4124-9ab4-10a487669a64)
 -
