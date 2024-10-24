@@ -23,7 +23,7 @@ page 8
 ![image](https://github.com/user-attachments/assets/3caeed56-656a-42ad-b015-a3a16a4492a1)
 -
 page 9
-![image](https://github.com/su-sumico/dl/assets/161304268/8ac1b0ed-e35d-4665-90e7-3cef6ffe5c4c)
+![Uploading image.png…]()
 -
 page 10
 ![image](https://github.com/user-attachments/assets/409e50f5-a5a3-4c58-a5ca-7f43826c8b74)
