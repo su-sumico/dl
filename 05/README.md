@@ -5,7 +5,7 @@ page 2
 ![image](https://github.com/su-sumico/dl/assets/161304268/6535dfff-15bd-43f9-8a11-becd17fb2934)
 -
 page 3
-![image](https://github.com/su-sumico/dl/assets/161304268/971ee976-2774-4f92-934b-5a39c8d84269)
+![image](https://github.com/user-attachments/assets/1fd8ebfc-83c0-4251-883d-746f261adf47)
 -
 page 4
 ![image](https://github.com/su-sumico/dl/assets/161304268/ddcf5151-f3fe-4233-afd8-441e3a21fa30)
@@ -26,7 +26,9 @@ page 9
 ![image](https://github.com/su-sumico/dl/assets/161304268/8ac1b0ed-e35d-4665-90e7-3cef6ffe5c4c)
 -
 page 10
-![image](https://github.com/su-sumico/dl/assets/161304268/5353372d-602f-4294-bb88-9abf5a775343)
+![image](https://github.com/user-attachments/assets/409e50f5-a5a3-4c58-a5ca-7f43826c8b74)
+Source: https://github.com/wkentaro/labelme#windows
+Source: https://qiita.com/chiba1sonny/items/9a16fbb3e8136e3f983c
 -
 page 11
 ![image](https://github.com/su-sumico/dl/assets/161304268/c6e953f4-6df5-4124-9ab4-10a487669a64)
