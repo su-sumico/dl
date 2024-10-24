@@ -23,7 +23,8 @@ page 8
 ![image](https://github.com/user-attachments/assets/3caeed56-656a-42ad-b015-a3a16a4492a1)
 -
 page 9
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4ceae915-eee6-4f72-aee4-a54578e235e6)
+
 -
 page 10
 ![image](https://github.com/user-attachments/assets/409e50f5-a5a3-4c58-a5ca-7f43826c8b74)
