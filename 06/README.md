@@ -6,7 +6,6 @@ page 2
 ---
 page 3
 ![image](https://github.com/user-attachments/assets/8973552c-d380-4c15-9b0d-a6b2db3860b8)
-https://nlpillustration.tech/?p=2171
 ---
 page 4
 ![image](https://github.com/user-attachments/assets/60032e97-b356-4b3a-9ee5-e13c9bceef93)
